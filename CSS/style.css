@@ -1,16 +1,15 @@
 .mt-n1 {
     margin-top: -0.6rem;
   }
-  
-  .header .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+
+
+  .navSpace {
+    padding-right: 15px;
   }
-  /* .navspace {
-    display: flex;
-    justify-content: space-between;
-  } */
+
+  .sectionSpace {
+    padding-left: 215px;
+  }
 
   .pt {
     padding-top: 150px;
@@ -23,6 +22,6 @@
   }
 
   h1 {
-    font-size: 60px;
-    /* line-height: 100px; */
+    font-size: 55px;
+    
   }
