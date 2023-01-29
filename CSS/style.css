@@ -2,10 +2,15 @@
     margin-top: -0.6rem;
   }
   
-  .navspace {
+  .header .container {
     display: flex;
+    align-items: center;
     justify-content: space-between;
   }
+  /* .navspace {
+    display: flex;
+    justify-content: space-between;
+  } */
 
   .pt {
     padding-top: 150px;
