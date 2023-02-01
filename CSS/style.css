@@ -33,9 +33,9 @@
 
  
   .btn {
-    padding-left: 117px;
-    padding-right: 117px;
-    font-style: 16px;
+    width: 400px;
+    height: 60px;
+    font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
     border-radius: 0%;
@@ -47,4 +47,14 @@
     font-size: 14px;
     line-height: 50px;
     font-weight: 500;
+  }
+
+  .sectionFive li {
+    font-size: 14px;
+    font-weight: 500;
+    
+  }
+
+  .imgZ {
+    z-index: 1;
   }
