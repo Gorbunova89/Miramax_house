@@ -24,6 +24,10 @@
     
   }
 
+  h1 {
+    text-transform: uppercase;
+  }
+
   .sectionTwo p {
     font-size: 18px;
     font-weight: 500;
@@ -31,8 +35,9 @@
   }
 
 
- 
-  .btn {
+   .sectionFive .btn,
+   .sectionFour .btn,
+   .sectionThree .btn {
     width: 400px;
     height: 60px;
     font-size: 14px;
@@ -57,4 +62,31 @@
 
   .imgZ {
     z-index: 1;
+  }
+
+   .btnicon {
+    width: 60px;
+    height: 60px;
+    color: #161616;
+  }
+
+  .social {
+    color: #161616;
+    font-size: 48px;
+    margin-left: 40px;
+  }
+
+  .sectionSix p {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .footer {
+    /* background-color: #161616; */
+    padding-top: 60px;
+  }
+
+  .footer p {
+    text-transform: uppercase;
+    
   }
