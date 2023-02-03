@@ -2,6 +2,10 @@
     margin-top: -0.6rem;
   }
 
+  .navbar a {
+    text-transform: uppercase;
+  }
+
 
   .navSpace {
     padding-right: 15px;
