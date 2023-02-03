@@ -88,5 +88,23 @@
 
   .footer p {
     text-transform: uppercase;
+    font-size: 14px;
+  }
+
+  .footer li {
+    list-style: none;
+    
+
+  }
+
+  .footer a {
+    text-decoration: none;
+    color: white;
+    /* padding-right: 35px; */
+    text-transform: uppercase;
+  }
+
+  .footer ul {
+    display: flex;
     
   }
